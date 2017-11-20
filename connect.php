@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 
 $DB_HOST = 'localhost';
 $DB_USER = 'root';
@@ -12,3 +13,11 @@ try{
 catch(PDOException $e){
     echo $e->getMessage();
 }
+=======
+/**
+ * Created by PhpStorm.
+ * User: coda
+ * Date: 04/07/17
+ * Time: 09:23
+ */
+>>>>>>> b2283309fa0713ff8c91607f7b4098bf8a2330d5

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
 <head>
@@ -67,3 +68,12 @@
 
 </body>
 </html>
+=======
+<?php
+/**
+ * Created by PhpStorm.
+ * User: coda
+ * Date: 04/07/17
+ * Time: 12:12
+ */
+>>>>>>> b2283309fa0713ff8c91607f7b4098bf8a2330d5
